@@ -1,0 +1,26 @@
+h1 {
+    color: #E40344;
+}
+h2 {
+    color: #05A3C3;
+}
+body {
+    text-align: center;
+}
+nav {
+    padding:20px 14px;
+}
+p {
+    float: left;
+}
+ol  {
+   float: left;
+ 
+   margin-left: 500px;
+}
+
+img {
+    margin-top: 50px;
+}
+
+
